@@ -1,2 +1,2 @@
-# Linear Algebra
+# Linear Algebra Project
 PageRank Algorithm for Dr.Abbaszadeh
